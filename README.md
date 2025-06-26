@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Minank Kahai
+# 👋 Hey, I'm Minan
 
 💻 MSc Computer Science | 🎓 Psychology Grad  
 🧠 Passionate about empathic AI, human-computer interaction, and full-stack web development  
