@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Minan
 
 💻 MSc Computer Science | 🎓 Psychology Grad  
-🧠 Passionate about empathic AI VR, human-computer interaction, and all things tech 
+🧠 Passionate about empathic AI VR, human-computer interaction, and all things tech   
 🎮 Building VR-based intelligent agents & creating AI-powered platforms to enhance digital experiences
 
 ---
