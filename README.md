@@ -55,4 +55,6 @@ public interface IExpressionMapper
 
 ---
 
-📫 **Connect with me:** [![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail)](mailto:minankahai1@yahoo.com)
+📫 **Connect with me:** 
+[![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail)](mailto:minankahai1@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/minankk)
