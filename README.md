@@ -1,60 +1,62 @@
-# Minan K Kahai
+### 👋 Hey, I'm Minan
 
-**Software Engineer | MSc Computer Science (Distinction)**
-
-Specialising in systems architecture, secure API integrations, and data-driven engineering. I build robust, production-ready applications across the stack, with a strict emphasis on OOP, SOLID principles, and low-latency data processing.
-
----
-### 🏗️ Architecture Spotlight: Autonomous AR/VR Agent
-
-For my MSc Dissertation, I engineered a high-performance **Keyword-Gated Expression Mapping** system deployed on Oculus Quest 3 hardware. Rather than a standard front-end VR experience, the focus was on the underlying state machine, low-latency execution, and real-time data pipelines.
-
-```csharp
-// Core architecture contract defining the empathetic state machine
-public interface IExpressionMapper
-{
-    void ProcessSpatialStream(InteractionData stream);
-    void BroadcastTelemetry(out SpatialMetrics metrics);
-}
-```
-
-* **The Engine:** A Unity/C# architecture built strictly on SOLID principles to decouple the VR rendering layer from the autonomous logic controller.
-* **The Pipeline:** A custom Python backend (Pandas, NumPy) engineered to capture and process real-time spatial telemetry from the headset.
-* **The Evidence:** System behaviour was not based on intuition; it was iteratively validated using rigorous statistical analysis against holdout sets (Cohen's *d* = 2.32, *p* < 0.001) before final deployment.
+💻 MSc Computer Science | 🎓 BSc Psychology  
+🧠 Interested in human-computer interaction, applied AI, systems design, and building cool tech  
+🛠️ Building across full-stack web apps, spatial computing, APIs, and hardware tinkering  
+🌐 Check out my portfolio: [minankahai.vercel.app](https://minankahai.vercel.app)
 
 ---
-### 🛠️ Technical Arsenal
 
-**Systems & Backend**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+### 🛠️ Tech Toolbox
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Architecture & Data**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Front-End & Infrastructure**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
----
-### ⚙️ Featured Engineering
-
-* **[Making Tax Digital (MTD) Integration](https://github.com/minankk/mtd-project)**: Architected a secure TypeScript/Node.js integration layer for the HMRC API, featuring automated OAuth 2.0 workflows and type-safe schema validation for uninterrupted financial data access.
-* **[Vinyl Vault](https://github.com/minankk/Vinyl-Vault)**: Full-stack platform (React, Node.js, MySQL) implementing scalable systems programming principles, RESTful APIs, and secure JWT authentication.
-* **[Clinic Sharing Network](https://github.com/minankk/clinic-sharing-network)**: A prototype exploring B2B SaaS architecture and incentive design to resolve data-sharing bottlenecks in competitive environments.
 
 ---
 
-📫 **Connect with me:** 
-[![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail)](mailto:minankahai1@yahoo.com)
+### 💡 Currently Exploring & Building
+
+- **Agentic AI & Spatial Computing:** Building intelligent agents and interactive environments ([MSc AR/VR Empathetic Agent](https://github.com/minankk/MSc-AR-VR-Empathetic_Agent))
+- **Full-Stack & API Systems:** Scalable web platforms, FinTech integrations ([MTD Integration](https://github.com/minankk/mtd-project)), and clean backend architecture
+- **HCI & Product Design:** Bridging psychology and software to craft intuitive interfaces and user experiences
+- **Hardware & Side Projects:** Experimenting with microcontrollers, embedded setups, and creative UI motion
+
+---
+
+### 🧙 Dev Summary & Languages Used
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=minankk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Minan's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minankk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=flat-square&logo=vercel&logoColor=black)](https://minankahai.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/minankk)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail&logoColor=white)](mailto:minankahai1@yahoo.com)
+
+⭐️ Thanks for visiting my profile! Always happy to connect on cool projects or ideas 🙂
